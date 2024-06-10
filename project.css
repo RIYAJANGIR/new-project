@@ -1,0 +1,95 @@
+.left-portion {
+    background-color: black;
+    height: 100vh;
+    padding-top: 304px;
+}
+
+.left-portion-para {
+    color: white;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.right-portion {
+    padding-top: 160px;
+    padding-left: 50px;
+    text-align: left;
+    background-color: rgb(219, 219, 219);
+}
+
+.rp-head {
+    font-family: roboto;
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+}
+
+.rp-head-line {
+    font-family: roboto;
+    color: black;
+    font-size: 17px;
+}
+
+.sign-in-card {
+    background-color: white;
+    border-radius: 10px;
+    color:  rgb(139, 139, 139);
+    border-width: 0;
+    border-style: none;
+    height: 35px;
+    width: 250px;
+    padding: 5px;
+    margin: 12px;
+    text-align: center;
+}
+
+.sin-box {
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0;
+    border-style: none;
+    height: 250px;
+    width: 280px;
+    padding: 5px;
+    margin: 5px;
+    padding: 15px;
+}
+
+.sin-box-para {
+    font-size: 15px;
+}
+
+.forget-text {
+    color: rgb(65, 161, 245);
+}
+
+.input-box {
+    background-color:  rgb(219, 219, 219);
+    border-radius: 3px;
+    border-width: 0;
+    border-style: none;
+    width: 240px;
+    margin-bottom: 10px;
+}
+
+.sign-in-button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-width: 0;
+    border-style: none;
+    height: 30px;
+    width: 240px;
+
+}
+
+.account-text {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+span {
+    color: rgb(65, 161, 245)
+}
